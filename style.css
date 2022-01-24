@@ -1,0 +1,16 @@
+body{
+    color: white;
+    background-color: rgb(245, 234, 134);
+}
+h3{
+    width: 80%;
+    font-size: 22px;
+}
+#camera{
+    border:dashed, coral;
+    width: 350px;
+    height: 300px;
+}
+#result_of_objects, #result_of_accuracy{
+    color:darkkhaki;
+}
